@@ -1,7 +1,9 @@
-## Hi 👋, I'm Ayoub EL bouasri - Full-Stack developer
-
-"Turning ideas into realities, one line of code at a time."
-
+<div style="text-align: center;">  
+  Hi 👋, I'm Ayoub EL bouasri - Full-Stack developer  
+  <p style="font-weight: bold; font-size: 1.2em;">  
+    "Turning ideas into realities, one line of code at a time."  
+  </p>  
+</div>
 
 <!--
 **AyouubElb/AyouubElb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
