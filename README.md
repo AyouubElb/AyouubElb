@@ -1,6 +1,6 @@
-### Hi 👋, I'm Ayoub EL bouasri - Full Stack developer 
+# Hi 👋, I'm Ayoub EL bouasri - Full Stack developer 
 
-## "Turning ideas into realities, one line of code at a time"
+### "Turning ideas into realities, one line of code at a time"
 
 
 # About me
