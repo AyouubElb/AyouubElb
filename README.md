@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Ayoub EL bouasri - Full Stack developer 
 
-## Turning ideas into realities, one line of code at a time
+## "Turning ideas into realities, one line of code at a time"
 
 
 # About me
-👩🏻‍💻 Software developer sharing about my journey and learnings in tech
+👩🏻‍💻 Software developer sharing about my journey and learnings in tech<br/>
 👨‍🎓 Currently Computer Engineering student (master degree) at Istinye University, Istanbul
 
 
