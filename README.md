@@ -4,7 +4,7 @@
 
 
 # About me
-👩🏻‍💻 Software developer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Software developer, in my journey I work on Transforming complex challenges into elegant, user-focused applications that provide seamless experiences<br/>
 👨‍🎓 Currently Computer Engineering student (master degree) at Istinye University, Istanbul
 
 
