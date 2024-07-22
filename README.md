@@ -2,7 +2,7 @@
 
 "Turning ideas into realities, one line of code at a time"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyouubElb&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyouubElb&show_icons=true&theme=gruvbox)
 
 <!--
 **AyouubElb/AyouubElb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
