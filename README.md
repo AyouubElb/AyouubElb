@@ -1,6 +1,8 @@
-### Hi 👋, I'm Ayoub EL bouasri - Full-Stack developer 
+### Hi 👋, I'm Ayoub EL bouasri - Full Stack developer 
 
-"Turning ideas into realities, one line of code at a time."
+"Turning ideas into realities, one line of code at a time"
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyouubElb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AyouubElb/AyouubElb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
