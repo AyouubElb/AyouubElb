@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Ayoub EL bouasri - Full-Stack developer
+
+"Turning ideas into realities, one line of code at a time."
+
 
 <!--
 **AyouubElb/AyouubElb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
